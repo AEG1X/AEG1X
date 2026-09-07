@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/aegis-banner.png" width="100%" alt="AEGIS Banner">
+</p>
+
 # 💫 About Me:
 🔭 I’m currently building cybersecurity & development projects<br><br>👥 I’m open to collaborating on cybersecurity, development & open-source projects<br><br>🤝 Always looking to learn from experienced developers and security enthusiasts<br><br>🌱 I’m currently pursuing a Bachelor's degree in Cybersecurity at EPITA<br><br>💬 Ask me about cybersecurity, development, systems & my projects<br><br>⚡ Learn. Build. Secure. Evolve.
 
